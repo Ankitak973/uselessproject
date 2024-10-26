@@ -25,18 +25,12 @@ Its basically a virtual stone paper scissor game.]
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,java script]
 - [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [vs code,chat gpt,java script]
 
 ### Implementation
-For Software:
+For Software:vs code
 # Installation
 [commands]
 
@@ -44,7 +38,7 @@ For Software:
 [commands]
 
 ### Project Documentation
-For Software:
+For Software:GIT HUB
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
