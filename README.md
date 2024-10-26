@@ -1,25 +1,26 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Virtual Rock Paper Scissors] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [TechAlchemy]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Ankita K]- [SCMS School of Engineering and Technology]
+- Member 2: [Abhimanyu Pradeep] - [SCMS School of Engineering and Technology]
+- Member 3: [Avanti Aneesh] - [SCMS School of Engineering and Technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[This code can take input from user as stone, paper or scissors and can play against the computer.
+Its basically a virtual stone paper scissor game.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[This solves problem for people who are really bored and have nothing to do or a simple fun activity]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[This can be solved by playing rock paper scissor with the computer]
 
 ## Technical Details
 ### Technologies/Components Used
